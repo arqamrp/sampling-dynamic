@@ -1,0 +1,9 @@
+Pillow
+scipy
+tqdm
+gradio
+matplotlib
+numpy
+pandas
+gradio
+scikit-learn
